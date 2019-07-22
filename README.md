@@ -1,12 +1,1 @@
-# santri-IDN
-# tutorial visit this site 👇
-
-# https://santricoder.blogspot.com/2019/06/script-termux-cara-mengambilmembajak.html?m=1
-
-
-
-
-
-
-
-
+SELAMAT DATANG KAWAN BOLEH INTIP CODE GITHUB SAYA TAPI JANGAN HAPUS COPYRED NYA YA DAN JANGN GANTI NAMA PENGGUNA NYA
